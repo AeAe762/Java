@@ -119,7 +119,7 @@ public class program {
  * }
  */
 
-// Функции и методы
+                                                  // Функции и методы
 
 /* public class program {
   static void sayHi () { // Функция, которая будет выводить hi
